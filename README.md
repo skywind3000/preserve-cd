@@ -26,6 +26,7 @@
 
 光碟下载：
 
+- 谷歌：[绝版游戏保护工程2.iso](https://drive.google.com/file/d/1qSRYgoaL3AR8ixqp1AP4gKW1zX9wZENe/view?usp=sharing)
 - 度盘：地址 `s/1V8oN-2GyX6ku3yA247IURw`， 口令 `kpor`
 - 115：地址 `s/sw30ctq3ze9` ，口令 `vb46`
 
