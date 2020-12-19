@@ -16,6 +16,20 @@
 - 度盘：地址 `s/10uTA5L5Nay1aKpqkvACM-A`，口令 `f08f`
 - 115：地址 `s/sw3chai3ze9` ，口令 `t511`
 
+## CD2：绝版经典小游戏
+
+本光碟收录了一百多个不同类型的经典小游戏，他们种类丰富、容易上手、短小精干却又非常耐玩。
+
+光碟介绍：
+
+- [CD2 光碟介绍](docs/preserve-cd-2.pdf)
+
+光碟下载：
+
+- 度盘：地址 `s/1V8oN-2GyX6ku3yA247IURw`， 口令 `kpor`
+- 115：地址 `s/sw30ctq3ze9` ，口令 `vb46`
+
+
 ## Credit
 
 TODO 
