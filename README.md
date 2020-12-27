@@ -20,8 +20,6 @@
 
 本光碟收录了一百多个不同类型的经典小游戏，他们种类丰富、容易上手、短小精干却又非常耐玩。
 
-![cover2](https://github.com/skywind3000/images/raw/master/p/preserve/cover-2.jpg)
-
 光碟介绍：
 
 - [CD2 光碟介绍](docs/preserve-cd-2.pdf)
