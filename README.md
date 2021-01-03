@@ -14,7 +14,7 @@
 
 - 谷歌：[绝版游戏保护工程1.iso](https://drive.google.com/file/d/11FafOmfw7OqrEx14DPh2rhqRHO_j70KB/view?usp=sharing)
 - 度盘：地址 `s/10uTA5L5Nay1aKpqkvACM-A`，口令 `f08f`
-- 115：地址 `s/sw3chai3ze9` ，口令 `t511`
+- 115：地址 `s/sw3u78i3ze9` ，口令 `p254`
 
 ## CD2：绝版经典小游戏
 
