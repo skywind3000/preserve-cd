@@ -17,6 +17,7 @@
 - 谷歌：[绝版游戏保护工程1.iso](https://drive.google.com/file/d/11FafOmfw7OqrEx14DPh2rhqRHO_j70KB/view?usp=sharing)
 - 度盘：地址 `s/10uTA5L5Nay1aKpqkvACM-A`，口令 `f08f`
 - 115：地址 `s/sw3u78i3ze9` ，口令 `p254`
+- 天翼云网盘：地址`https://cloud.189.cn/t/Ef2IjyuuemIn`，口令：`jj8t`
 - BT: [磁力链接](https://tinyurl.com/y2ba4dxs)
 ## CD2：绝版经典小游戏
 
@@ -31,11 +32,10 @@ Epic/Steam 上游戏买了一大堆，从第一页看到最后一页，没有一
 - 谷歌：[绝版游戏保护工程2.iso](https://drive.google.com/file/d/1qSRYgoaL3AR8ixqp1AP4gKW1zX9wZENe/view?usp=sharing)
 - 度盘：地址 `s/1V8oN-2GyX6ku3yA247IURw`， 口令 `kpor`
 - 115：地址 `s/sw30ctq3ze9` ，口令 `vb46`
+- 天翼云网盘：地址`https://cloud.189.cn/t/B7jiUzIn63aa`，口令：`8xrr`
 - BT: [磁力链接](https://tinyurl.com/y38tsslf)
 
 ####BT:[磁力链接(CD1+CD2)](https://tinyurl.com/yxk4np5n)
 ## Credit
 
-TODO 
-
-
+TODO
