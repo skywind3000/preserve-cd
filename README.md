@@ -19,6 +19,8 @@
 - 115：地址 `s/sw3u78i3ze9` ，口令 `p254`
 - 天翼云网盘：地址`https://cloud.189.cn/t/Ef2IjyuuemIn`，口令：`jj8t`
 - BT: [磁力链接](https://tinyurl.com/y2ba4dxs)
+
+
 ## CD2：绝版经典小游戏
 
 Epic/Steam 上游戏买了一大堆，从第一页看到最后一页，没有一个想玩？免费手游试了好几个，不氪金就打不过小学生？想玩会游戏发现不是玩不动就是自取其辱？欢迎尝试《绝版经典小游戏》，本光碟包含一百个简单又耐玩的小游戏（Windows + Flash），上手容易，无需充值，百玩不腻。
@@ -35,7 +37,8 @@ Epic/Steam 上游戏买了一大堆，从第一页看到最后一页，没有一
 - 天翼云网盘：地址`https://cloud.189.cn/t/B7jiUzIn63aa`，口令：`8xrr`
 - BT: [磁力链接](https://tinyurl.com/y38tsslf)
 
-####BT:[磁力链接(CD1+CD2)](https://tinyurl.com/yxk4np5n)
+#### BT:[磁力链接(CD1+CD2)](https://tinyurl.com/yxk4np5n)
+
 ## Credit
 
 TODO
