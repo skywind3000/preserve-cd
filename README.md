@@ -41,4 +41,6 @@ Epic/Steam 上游戏买了一大堆，从第一页看到最后一页，没有一
 
 ## Credit
 
+- 兄弟项目：[绝版软件保护工程](https://github.com/skywind3000/preserve-iso)
+
 TODO
