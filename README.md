@@ -39,6 +39,14 @@ Epic/Steam 上游戏买了一大堆，从第一页看到最后一页，没有一
 
 #### BT:[磁力链接(CD1+CD2)](https://tinyurl.com/yxk4np5n)
 
+## 增刊：老游戏攻略合集
+
+雷锋珍藏的一些得来不易的老游戏攻略，包含：DOS游戏，红白机，SFC/MD 等主机游戏机：
+
+- 谷歌：[老游戏攻略合集.iso](https://drive.google.com/file/d/12G-go9FSBwaE0o9JdNaoiTGrddX1kfwM/view?usp=sharing)
+- 度盘：地址 `s/1ZyOI2Phv6nWR_18l1uWLLg` ，口令 `8869`
+- 115：地址 `s/sw6n61k3ze9` ，口令 `8866`
+
 ## Credit
 
 - 兄弟项目：[绝版软件保护工程](https://github.com/skywind3000/preserve-iso)
