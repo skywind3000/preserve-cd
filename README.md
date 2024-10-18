@@ -58,6 +58,12 @@ MD5SUM：594091d64d05908fb3e38d2fda1d36e5
 
 ## Credit
 
-- 兄弟项目：[绝版软件保护工程](https://github.com/skywind3000/preserve-iso)
+欢迎关注：
+
+- 我的博客：https://skywind.me/blog
+- 个人推特：https://x.com/skywind3000
+
+以及兄弟项目《[绝版软件保护工程](https://github.com/skywind3000/preserve-iso)》，收录各种经典工具。
+
 
 TODO
